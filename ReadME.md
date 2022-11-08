@@ -16,6 +16,10 @@ Please see the video below which demonstrates the functionality of the program
 
 
 
+https://user-images.githubusercontent.com/110492974/200488444-a9d56119-87ce-42c6-95c3-dbe6ccaa8017.mp4
+
+
+
 ## Credits
 
 Assistance provided by my teacher who went over a couple of parts of this challenge to get us started. The stepping stones provided helped me succeed.
