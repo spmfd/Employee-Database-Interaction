@@ -54,7 +54,7 @@ inquirer.prompt([
 
   initiate()
 
-  // Functions after decision has been made 
+// Functions after decision has been made 
 
 function viewDepartments() {
     const sql = 'SELECT * FROM department;' 
